@@ -1,0 +1,25 @@
+{
+  "author": "BuildFire",
+  "pluginName": "Categories content scheduler",
+  "pluginDescription": "A Timed release plugin that creates categories, adds features, elements and schedules what date they will appear.Tease users by greying out content that's not yet available.Three layout choices to pick from, with parallax animation effects. Schedule an event once, complete with how the image and content will display and forget about itIt can also be used for unscheduled activities. You can categorize any kind of content.",
+  "supportEmail": "proservices@buildfire.com",
+  "supportSite" :"https://buildfire.com/get-started/",
+  "singleton": true,
+  "control": {
+    "content": {
+      "enabled": true
+    },
+    "design":{
+      "enabled": false
+    },
+    "settings": {
+      "enabled": false
+    },
+    "removeHeader": true
+  },
+  "widget": {
+    "enabled": false
+  },
+  "features": [],
+  "languages": ["en"]
+}

@@ -1,0 +1,25 @@
+{
+  "author": "BuildFire",
+  "pluginName": "Questionnaire",
+  "pluginDescription": "Create surveys, quizzes, question and answers systems in your app. Create flexible responses, that can be set as text based or selection type answer.",
+  "supportEmail": "proservices@buildfire.com",
+  "supportSite" :"https://buildfire.com/get-started/",
+  "singleton": true,
+  "control": {
+    "content": {
+      "enabled": true
+    },
+    "design":{
+      "enabled": false
+    },
+    "settings": {
+      "enabled": false
+    },
+    "removeHeader": true
+  },
+  "widget": {
+    "enabled": false
+  },
+  "features": [],
+  "languages": ["en"]
+}

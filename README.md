@@ -1,2 +1,2 @@
-# defaultPluginTemplate
-Default simple plugin template 
+# Promo Plugins Templates
+Used to promote premium plugins
