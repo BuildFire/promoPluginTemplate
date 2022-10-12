@@ -1,6 +1,6 @@
 {
   "author": "BuildFire",
-  "pluginName": "Content Scheduler [QA]",
+  "pluginName": "Content Scheduler",
   "pluginDescription": "A Timed release plugin that creates categories, adds features, elements and schedules what date they will appear.Tease users by greying out content that's not yet available.Three layout choices to pick from, with parallax animation effects. Schedule an event once, complete with how the image and content will display and forget about itIt can also be used for unscheduled activities. You can categorize any kind of content.",
   "supportEmail": "sales@buildfire.com",
   "supportSite" :"https://buildfire.com/get-started/",
