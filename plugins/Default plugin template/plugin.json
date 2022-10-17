@@ -2,7 +2,7 @@
   "author": "BuildFire",
   "pluginName": "Promo Plugin Template",
   "pluginDescription": "Put your description for your plugin here plus keywords",
-  "supportEmail": "proservices@buildfire.com",
+  "supportEmail": "sales@buildfire.com",
   "supportSite" :"https://buildfire.com/get-started/",
   "singleton": true,
   "control": {
